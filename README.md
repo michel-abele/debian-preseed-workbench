@@ -1,7 +1,7 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/michel-abele/debian-preseed-workspace?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/michel-abele/debian-preseed-workbench?style=for-the-badge)
 
-# Debian preseed workspace
-A workspace template for Debian Preseed creation.
+# Debian preseed workbench
+A workbench template for Debian Preseed creation.
 
 ![Static Badge](https://img.shields.io/badge/12-logo?style=for-the-badge&logo=Debian&logoColor=%23ffffff&label=Debian&color=%23A81D33)
 
@@ -12,7 +12,7 @@ A workspace template for Debian Preseed creation.
 3. Execute the following commands:
    ```shell
    apt -y install git
-   git clone https://github.com/michel-abele/debian-preseed-workspace.git ~/preseed
+   git clone https://github.com/michel-abele/debian-preseed-workbench.git ~/preseed
    ```
    _You may need root rights to execute the commands, use the `su` or `sudo` commands._
 4. You can then copy the required files into the **~/preseed/files** directory.
@@ -29,7 +29,7 @@ A workspace template for Debian Preseed creation.
 ## Support my work with a donation or simply say thank you by leaving me a star or a follow.
 
 ![GitHub followers](https://img.shields.io/github/followers/michel-abele?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fmichel-abele)
-![GitHub Repo stars](https://img.shields.io/github/stars/michel-abele/debian-preseed-workspace?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fmichel-abele%2Fdebian-preseed-workspace%2Fstargazers)
+![GitHub Repo stars](https://img.shields.io/github/stars/michel-abele/debian-preseed-workbench?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fmichel-abele%2Fdebian-preseed-workbench%2Fstargazers)
 ![Static Badge](https://img.shields.io/badge/Me-logo?style=for-the-badge&logo=PayPal&logoColor=%23ffffff&label=PayPal&color=%23003087&link=https%3A%2F%2Fwww.paypal.com%2Fpaypalme%2FMichelAbele)
 ![Static Badge](https://img.shields.io/badge/Donate-logo?style=for-the-badge&logo=Ko-fi&logoColor=%23ffffff&label=Ko-fi&color=%23ff5e5b&link=https%3A%2F%2Fko-fi.com%2Fmichelabele)
 ![Static Badge](https://img.shields.io/badge/Membership-logo?style=for-the-badge&logo=Patreon&logoColor=%23ffffff&label=Patreon&color=%23000000&link=https%3A%2F%2Fpatreon.com%2FMichelAbele)
