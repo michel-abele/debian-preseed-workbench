@@ -8,16 +8,26 @@ A workbench template for Debian Preseed creation.
 ## Instructions
 
 1. Open any file manager of your choice.
+
 2. Navigate to the home directory of your current user.
+
 3. Execute the following commands:
    ```shell
    apt -y install git
    git clone https://github.com/michel-abele/debian-preseed-workbench.git ~/preseed
    ```
    _You may need root rights to execute the commands, use the `su` or `sudo` commands._
+
 4. You can then copy the required files into the **~/preseed/files** directory.
+
 5. Download the current ISO from the [Debian website] and copy it as **debian.iso** into the directory **~/preseed**.
+   ```shell
+   apt -y install wget
+   wget -O ./debian.iso https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-12.5.0-amd64-netinst.iso
+   ```
+
 6. Now you can customize the **preseed.cfg** file according to your requirements.
+
 7. Once you have completed all the previous steps, you can now make the **preseed.sh** file executable and run it.
    ```shell
    chmod +x ./preseed.sh
@@ -25,6 +35,12 @@ A workbench template for Debian Preseed creation.
    ```
    _You may need root rights to execute the commands, use the `su` or `sudo` commands._
 
+8. Now you can create the bootable installation medium.
+   ```shell
+   dd if=preseed-debian.iso of=/dev/sdX bs=4M status=progress && sync
+   ```
+   _You may need root rights to execute the commands, use the `su` or `sudo` commands._<br>
+   _You must replace the `sdX` drive with the corresponding device._
 
 ## Support my work with a donation or simply say thank you by leaving me a star or a follow.
 

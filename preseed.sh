@@ -51,7 +51,7 @@ rm -rf new-iso vanilla-iso
 
 clear
 if [ -f "./debian-preseed.iso" ]; then
-    echo "The ISO file: debian-preseed.iso was successfully created."
+    echo "The ISO file: preseed-debian.iso was successfully created."
 else
-    echo "The ISO file: debian-preseed.iso could not be created."
+    echo "The ISO file: preseed-debian.iso could not be created."
 fi
