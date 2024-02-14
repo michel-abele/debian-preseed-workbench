@@ -5,6 +5,8 @@ A workbench template for creating Debian Preseeds.
 
 ![Static Badge](https://img.shields.io/badge/12-logo?style=for-the-badge&logo=Debian&logoColor=%23ffffff&label=Debian&color=%23A81D33)
 
+:de: [Deutsche Version >>](https://github.com/michel-abele/debian-preseed-workbench/blob/main/readme.de.md)
+
 ## Instructions
 
 1. Open any file manager of your choice.
