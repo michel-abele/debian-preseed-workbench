@@ -1,9 +1,10 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/michel-abele/debian-preseed-workbench?style=for-the-badge)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/michel-abele/debian-preseed-workbench/main?logo=github&label=last%20commit%3A%20main)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/michel-abele/debian-preseed-workbench/work?logo=github&label=last%20commit%3A%20work)
 
 # Debian preseed workbench
 A workbench template for creating Debian Preseeds.
 
-![Static Badge](https://img.shields.io/badge/12-logo?style=for-the-badge&logo=Debian&logoColor=%23ffffff&label=Debian&color=%23A81D33)
+![Static Badge](https://img.shields.io/badge/12-logo?logo=Debian&logoColor=%23ffffff&label=Debian&color=%23A81D33)
 
 :de: [Deutsche Version >>](https://github.com/michel-abele/debian-preseed-workbench/blob/main/readme.de.md)
 
@@ -63,19 +64,3 @@ A workbench template for creating Debian Preseeds.
    ```
    _You must replace the drive directory `sdX` with the corresponding device directory._
    _You may need root privileges to execute the commands, use the commands `su` or `sudo`._
-
-## Support
-
-If you would like to support my work, you are welcome to donate, give me a star or follow me.
-
-![GitHub followers](https://img.shields.io/github/followers/michel-abele?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fmichel-abele)
-![GitHub Repo stars](https://img.shields.io/github/stars/michel-abele/debian-preseed-workbench?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fmichel-abele%2Fdebian-preseed-workbench%2Fstargazers)
-![Static Badge](https://img.shields.io/badge/Me-logo?style=for-the-badge&logo=PayPal&logoColor=%23ffffff&label=PayPal&color=%23003087&link=https%3A%2F%2Fwww.paypal.com%2Fpaypalme%2FMichelAbele)
-![Static Badge](https://img.shields.io/badge/Donate-logo?style=for-the-badge&logo=Ko-fi&logoColor=%23ffffff&label=Ko-fi&color=%23ff5e5b&link=https%3A%2F%2Fko-fi.com%2Fmichelabele)
-
-If you need help:
-
-- For small requests, just send me an e-mail and I will respond.
-- For larger requests or orders, use one of the following links.
-
-![Static Badge](https://img.shields.io/badge/Membership-logo?style=for-the-badge&logo=Patreon&logoColor=%23ffffff&label=Patreon&color=%23000000&link=https%3A%2F%2Fpatreon.com%2FMichelAbele)

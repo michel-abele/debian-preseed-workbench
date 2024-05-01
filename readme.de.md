@@ -6,7 +6,7 @@
 # Debian-Preseed-Werkbank
 Eine Werkbankvorlage für die Erstellung von Debian-Preseed-ISOs.
 
-![Static Badge](https://img.shields.io/badge/12-logo?style=for-the-badge&logo=Debian&logoColor=%23ffffff&label=Debian&color=%23A81D33)
+![Static Badge](https://img.shields.io/badge/12-logo?logo=Debian&logoColor=%23ffffff&label=Debian&color=%23A81D33)
 
 ## Anweisungen
 
@@ -64,19 +64,3 @@ Eine Werkbankvorlage für die Erstellung von Debian-Preseed-ISOs.
    ```
    _Du musst das Laufwerksverzeichnis `sdX` durch das entsprechende Geräteverzeichnis ersetzen._
    _Du benötigst möglicherweise root-Rechte, um die Kommandos auszuführen, verwende dazu die Befehle `su` oder `sudo`._
-
-## Unterstützung
-
-Wenn Du meine Arbeit unterstützen möchtest, kannst Du mir gerne Spenden, einen Stern geben oder mir folgen.
-
-![GitHub followers](https://img.shields.io/github/followers/michel-abele?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fmichel-abele)
-![GitHub Repo stars](https://img.shields.io/github/stars/michel-abele/debian-preseed-workbench?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fmichel-abele%2Fdebian-preseed-workbench%2Fstargazers)
-![Static Badge](https://img.shields.io/badge/Me-logo?style=for-the-badge&logo=PayPal&logoColor=%23ffffff&label=PayPal&color=%23003087&link=https%3A%2F%2Fwww.paypal.com%2Fpaypalme%2FMichelAbele)
-![Static Badge](https://img.shields.io/badge/Donate-logo?style=for-the-badge&logo=Ko-fi&logoColor=%23ffffff&label=Ko-fi&color=%23ff5e5b&link=https%3A%2F%2Fko-fi.com%2Fmichelabele)
-
-Wenn Du Hilfe benötigst:
-
-- Bei kleinen Anfragen schreib mir einfach eine E-Mail, ich werde darauf antworten.
-- Bei größeren Anfragen oder Aufträgen benutze einen der folgenden Links.
-
-![Static Badge](https://img.shields.io/badge/Membership-logo?style=for-the-badge&logo=Patreon&logoColor=%23ffffff&label=Patreon&color=%23000000&link=https%3A%2F%2Fpatreon.com%2FMichelAbele)
