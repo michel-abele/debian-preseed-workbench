@@ -1,6 +1,7 @@
 [<< zurück](https://github.com/michel-abele/debian-preseed-workbench)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/michel-abele/debian-preseed-workbench?style=for-the-badge)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/michel-abele/debian-preseed-workbench/main?logo=github&label=last%20commit%3A%20main)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/michel-abele/debian-preseed-workbench/work?logo=github&label=last%20commit%3A%20work)
 
 # Debian-Preseed-Werkbank
 Eine Werkbankvorlage für die Erstellung von Debian-Preseed-ISOs.
